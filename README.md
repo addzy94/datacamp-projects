@@ -1,2 +1,2 @@
 # datacamp-projects
-Data Camp Projects
+This repository houses all the work I have done for some DataCamp project(s).
